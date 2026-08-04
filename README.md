@@ -1,11 +1,14 @@
-Author
+Author:
 Joel Joseph Zichat
 
-Nick Name
+Nick Name:
 JoeRex
 
-Occupation
+Occupation:
 Data Analyst
 
-About
+About:
 Data Analysis  Practice Portfolio ProJect
+
+Email:
+ZichatJoel2017@gmail.com
